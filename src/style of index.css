@@ -19,7 +19,7 @@
 .nav_bar ul li:last-child a { position: absolute; top: 50px; left: 1512px; color: white !important; }
 .nav_bar ul li:last-child { background-color: rgb(239, 71, 111); border-radius: 100%; padding: 0px; margin: 5px; border: none; width: 25px; height: 25px; }
 .nav_bar ul li:last-child:hover { background-color: rgb(138, 12, 41); transition: all 1s ease 0s; }
-#first_section { background: url("bg.jpg") center center / cover no-repeat; padding: 200px; color: white; height: 400px; }
+#first_section { background: url("../bg.jpg") center center / cover no-repeat; padding: 200px; color: white; height: 400px; }
 .first_section_cover h2 { color: rgb(6, 202, 117); font-size: 40px; text-transform: uppercase; font-family: sans-serif; padding-bottom: 10px; font-weight: 600; }
 .first_section_cover h1 { font-size: 3rem; text-transform: uppercase; font-family: sans-serif; font-weight: 700; padding-bottom: 17px; }
 .first_section_cover p { width: 600px; font-size: 15px; text-transform: capitalize; line-height: 22px; font-family: arial; letter-spacing: 2px; padding-bottom: 20px; }
@@ -59,7 +59,7 @@ img.bg_seven { position: relative; width: 110px; display: block; bottom: 731px; 
 .fourth_part_top { display: flex; }
 .fourth_part_bottom { display: flex; }
 .single_part_fourth { display: flex; padding: 78px; }
-.fourth_part_wraper { padding: 10px; background: url("line.png") center center no-repeat; }
+.fourth_part_wraper { padding: 10px; background: url("../line.png") center center no-repeat; }
 .fourth_part_context h3 { font-size: 24px; font-family: sans-serif; font-weight: 700; color: rgb(82, 82, 82); padding-bottom: 5px; }
 .single_part_fourth p { font-size: 15px; color: rgb(133, 133, 133); font-weight: 500; font-family: sans-serif; }
 .extra_part { text-align: right; padding-right: 45px; }
